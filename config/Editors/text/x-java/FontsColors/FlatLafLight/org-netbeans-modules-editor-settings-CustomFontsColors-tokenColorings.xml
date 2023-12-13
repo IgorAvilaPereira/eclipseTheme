@@ -16,7 +16,9 @@
     </fontcolor>
     <fontcolor default="keyword" name="keyword"/>
     <fontcolor default="identifier" name="identifier"/>
-    <fontcolor default="field" name="mod-field"/>
+    <fontcolor default="field" foreColor="ff0000c8" name="mod-field">
+        <font style="bold"/>
+    </fontcolor>
     <fontcolor default="method" name="mod-method"/>
     <fontcolor default="identifier" name="mod-interface"/>
     <fontcolor default="identifier" name="mod-constructor-declaration">
@@ -38,7 +40,9 @@
         <font style="bold"/>
     </fontcolor>
     <fontcolor default="identifier" name="mod-module"/>
-    <fontcolor default="field" name="mod-field-declaration"/>
+    <fontcolor default="field" name="mod-field-declaration">
+        <font style="bold"/>
+    </fontcolor>
     <fontcolor name="mod-abstract"/>
     <fontcolor default="string" name="string"/>
     <fontcolor default="field" name="mod-record-component"/>

@@ -1,3 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.2//EN" "https://netbeans.apache.org/dtds/EditorFontsColors-1_2.dtd">
-<fontscolors/>
+<fontscolors>
+    <fontcolor bgColor="ffffffe0" name="coverage-partial"/>
+    <fontcolor bgColor="ffe0ffe0" name="coverage-inferred"/>
+    <fontcolor bgColor="ffffcccc" name="coverage-uncovered"/>
+    <fontcolor bgColor="ffe8f2fe" name="highlight-caret-row"/>
+    <fontcolor bgColor="ffccffcc" name="remove-surround-code-remain"/>
+    <fontcolor bgColor="fff5f5f5" foreColor="ffb4b4b4" name="remove-surround-code-delete"/>
+    <fontcolor bgColor="ffccffcc" name="coverage-covered"/>
+</fontscolors>
