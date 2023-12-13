@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.2//EN" "https://netbeans.apache.org/dtds/EditorFontsColors-1_2.dtd">
 <fontscolors>
-    <fontcolor default="comment" foreColor="black" name="javadoc-identifier"/>
+    <fontcolor default="comment" name="javadoc-identifier"/>
     <fontcolor name="mod-public"/>
     <fontcolor default="identifier" name="mod-interface-declaration">
         <font style="bold"/>
@@ -10,9 +10,7 @@
     <fontcolor default="number" name="number"/>
     <fontcolor default="char" name="character"/>
     <fontcolor default="identifier" name="mod-parameter"/>
-    <fontcolor default="comment" name="javadoc-first-sentence">
-        <font style="bold"/>
-    </fontcolor>
+    <fontcolor default="comment" name="javadoc-first-sentence"/>
     <fontcolor default="string" name="string-escape">
         <font style="bold"/>
     </fontcolor>
@@ -24,7 +22,7 @@
     <fontcolor default="identifier" name="mod-constructor-declaration">
         <font style="bold"/>
     </fontcolor>
-    <fontcolor default="comment" foreColor="ff9999ff" name="html-tag">
+    <fontcolor default="comment" foreColor="ff9978ff" name="html-tag">
         <font style="bold"/>
     </fontcolor>
     <fontcolor default="separator" name="separator"/>
@@ -63,7 +61,7 @@
     </fontcolor>
     <fontcolor default="identifier" name="mod-local-variable"/>
     <fontcolor default="keyword" name="mod-keyword"/>
-    <fontcolor default="comment" name="javadoc-tag">
+    <fontcolor default="comment" foreColor="ff9999ff" name="javadoc-tag">
         <font style="bold"/>
     </fontcolor>
     <fontcolor default="identifier" name="mod-annotation-type-declaration">
