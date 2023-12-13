@@ -43,7 +43,7 @@
     <fontcolor default="field" name="mod-field-declaration">
         <font style="bold"/>
     </fontcolor>
-    <fontcolor name="mod-abstract"/>
+    <fontcolor foreColor="lightGray" name="mod-abstract"/>
     <fontcolor default="string" name="string"/>
     <fontcolor default="field" name="mod-record-component"/>
     <fontcolor name="mod-unindented-text-block"/>
@@ -58,7 +58,7 @@
     <fontcolor default="keyword" name="keyword-directive"/>
     <fontcolor default="keyword" name="literal"/>
     <fontcolor name="mod-deprecated" strikeThrough="black"/>
-    <fontcolor default="identifier" name="mod-annotation-type"/>
+    <fontcolor default="identifier" foreColor="darkGray" name="mod-annotation-type"/>
     <fontcolor default="identifier" name="mod-record"/>
     <fontcolor default="string" name="string-escape-invalid" waveUnderlined="ffce7b00">
         <font style="bold"/>
