@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.2//EN" "https://netbeans.apache.org/dtds/EditorFontsColors-1_2.dtd">
+<fontscolors>
+    <fontcolor default="number" name="date"/>
+    <fontcolor default="string" name="string-quote"/>
+    <fontcolor default="number" name="number"/>
+    <fontcolor default="keyword" name="boolean"/>
+    <fontcolor default="string" name="string"/>
+    <fontcolor default="comment" name="comment"/>
+    <fontcolor default="string" name="string-escape">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="identfier" name="table-mark">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="whitespace" name="whitespace"/>
+    <fontcolor default="separator" name="separator"/>
+    <fontcolor default="identifier" name="key">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="operator" name="operator"/>
+</fontscolors>

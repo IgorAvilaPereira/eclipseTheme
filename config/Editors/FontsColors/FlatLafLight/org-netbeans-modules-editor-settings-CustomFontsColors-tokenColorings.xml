@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.2//EN" "https://netbeans.apache.org/dtds/EditorFontsColors-1_2.dtd">
+<fontscolors>
+    <fontcolor name="identifier"/>
+    <fontcolor bgColor="white" foreColor="black" name="default">
+        <font name="Monospaced" size="24"/>
+    </fontcolor>
+    <fontcolor foreColor="ff0033cc" name="string"/>
+    <fontcolor default="identifier" foreColor="blue" name="field"/>
+    <fontcolor foreColor="blue" name="char"/>
+    <fontcolor foreColor="ff006600" name="comment"/>
+    <fontcolor foreColor="ff660066" name="keyword">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="default" foreColor="black" name="entity-reference"/>
+</fontscolors>
