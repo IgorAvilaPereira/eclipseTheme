@@ -43,7 +43,7 @@
     <fontcolor default="field" name="mod-field-declaration">
         <font style="bold"/>
     </fontcolor>
-    <fontcolor foreColor="lightGray" name="mod-abstract"/>
+    <fontcolor foreColor="black" name="mod-abstract"/>
     <fontcolor default="string" name="string"/>
     <fontcolor default="field" name="mod-record-component"/>
     <fontcolor name="mod-unindented-text-block"/>
