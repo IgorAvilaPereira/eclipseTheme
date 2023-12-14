@@ -1,4 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<history>
-<sql date="1701466850772" url="jdbc:postgresql://localhost:5432/aula150822">SELECT * FROM "public".dependente LIMIT 100</sql>
-</history>
