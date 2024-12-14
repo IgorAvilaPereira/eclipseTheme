@@ -65,7 +65,7 @@
     </fontcolor>
     <fontcolor default="identifier" name="mod-local-variable"/>
     <fontcolor default="keyword" name="mod-keyword"/>
-    <fontcolor default="comment" foreColor="ff9999ff" name="javadoc-tag">
+    <fontcolor default="comment" name="javadoc-tag">
         <font style="bold"/>
     </fontcolor>
     <fontcolor default="identifier" name="mod-annotation-type-declaration">
